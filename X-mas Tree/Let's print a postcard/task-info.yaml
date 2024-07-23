@@ -1,0 +1,21 @@
+type: edu
+custom_name: Let's print a postcard!
+files:
+  - name: xmasstree.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/391/stages/2320/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 23 Jul 2024 14:04:03 UTC"
+record: -1
